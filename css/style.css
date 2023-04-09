@@ -25,3 +25,14 @@ input{
     padding: 5px;
     margin: 10px;
 }
+
+#name, #email, #number {
+    width: 100%;
+}
+
+form {
+    background-color: rgba(38, 38, 70, 0.6);
+    padding: 30px;
+    color: white;
+}
+
